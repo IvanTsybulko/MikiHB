@@ -1405,3 +1405,21 @@ body {
 .wish{
   color: white;
 }
+
+.message{
+  font-size: 20px;
+}
+
+.riddle{
+  max-width: 700px;
+}
+
+.key{
+  color: gold;
+  font-size: 24;
+}
+
+.final{
+  font-size: 24px;
+  max-width: 600px;
+}
